@@ -1,1 +1,1 @@
-# Event-Website
+"Develop a dynamic events website using HTML, CSS, and JavaScript. Features include event listings, interactive calendar, registration forms, responsive design, and JavaScript-powered animations for an engaging user experience."
